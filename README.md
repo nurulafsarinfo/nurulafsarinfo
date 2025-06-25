@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://your-banner-url.com/banner.jpg" alt="Nurul Afsar Banner" width="100%"/>
+![Cover photo](https://github.com/user-attachments/assets/04b79164-dbd5-44a3-bd64-f96dd69c0e9e)
 
 <h1 align="center">Hi 👋, I'm Nurul Afsar</h1>
 <h3 align="center">Web Developer & Designer 👨‍💻🎨</h3>
