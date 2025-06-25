@@ -11,7 +11,7 @@
 I'm a passionate web developer and designer based in New York. I love combining design with code to build clean, responsive, and user-focused web experiences. I’m always exploring new technologies and pushing my creative boundaries.
 
 ### 🔭 Current Projects & Activities:
-- 🌐 Working on a **Tourism Website** using modern design techniques.
+- 🌐 Working on a **Zap-Shift parcel delivery web app** using modern design techniques.
 - 🚀 Exploring **Next.js** and learning server-side rendering.
 - 🧪 Experimenting with animations in **Framer Motion**.
 - 🎨 Designing UI kits for reusable web components.
