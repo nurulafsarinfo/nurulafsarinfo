@@ -9,7 +9,9 @@
 ## 🧑‍💻 About Me
 
 I'm a passionate web developer and designer based in New York. I love combining design with code to build clean, responsive, and user-focused web experiences. I’m always exploring new technologies and pushing my creative boundaries.
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ4cWl3YmpnZ3htNHB1YzFiYjhhYzF4eGVkaXVyZG1yeGF3djVzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efuh1hLg1H438esuwG/giphy.gif">
+
+
+
 
 ### 🔭 Current Projects & Activities:
 - 🌐 Working on a **Zap-Shift parcel delivery web app** using modern design techniques.
