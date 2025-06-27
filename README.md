@@ -13,13 +13,15 @@ I'm a passionate web developer and designer based in New York. I love combining 
 
 <img align="right" alt="coding img" width="300" src="https://github.com/user-attachments/assets/9a0501f6-8a05-4ac7-ae94-0ae91135c9c9">
 
+
+
 ### 🔭 Current Projects & Activities:
 - 🌐 Working on a **Zap-Shift parcel delivery web app** using modern design techniques.
 - 🚀 Exploring **Next.js** and learning server-side rendering.
 - 🧪 Experimenting with animations in **Framer Motion**.
 - 🎨 Designing UI kits for reusable web components.
 
-<br/> 
+<br/> <br/>
 
 ---
 
