@@ -1,5 +1,6 @@
 <!-- Banner -->
 ![Cover photo](https://github.com/user-attachments/assets/04b79164-dbd5-44a3-bd64-f96dd69c0e9e)
+![Cover photo](https://github.com/user-attachments/assets/f14ce6b5-5c36-4231-8543-b3bf76b210ed)
 
 <h1 align="center">Hi 👋, I'm Nurul Afsar</h1>
 <h3 align="center">Web Developer & Designer 👨‍💻🎨</h3>
