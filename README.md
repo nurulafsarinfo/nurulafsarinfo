@@ -39,6 +39,42 @@ I design and develop responsive interfaces with React.js and Tailwind CSS, suppo
 
 ---
 
+<div align="center">
+
+### 💻 Tech Stack 
+
+</div>
+
+<div align="center">
+  
+**Frontend**
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  </a>
+</p>
+
+**Backend**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  </a>
+</p>
+
+**Tools & Platforms**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,figma,vercel" />
+  </a>
+</p>
+  
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
