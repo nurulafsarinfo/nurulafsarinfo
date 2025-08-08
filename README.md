@@ -8,15 +8,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate web developer and designer based in New York. I love combining design with code to build clean, responsive, and user-focused web experiences. I’m always exploring new technologies and pushing my creative boundaries.
-
+I design and develop responsive interfaces with React.js and Tailwind CSS, supported by reliable backends in Node.js and Express.js. I focus on building secure, scalable, and user-friendly applications.
 
 <img align="right" alt="coding img" width="300" src="https://github.com/user-attachments/assets/9a0501f6-8a05-4ac7-ae94-0ae91135c9c9">
 
 
 
 ### 🔭 Current Projects & Activities:
-- 🌐 Working on a **Zap-Shift parcel delivery web app** using modern design techniques.
+- 🌐 Working on a **DocTalk web app** using modern design techniques.
 - 🚀 Exploring **Next.js** and learning server-side rendering.
 - 🧪 Experimenting with animations in **Framer Motion**.
 - 🎨 Designing UI kits for reusable web components.
