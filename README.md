@@ -61,10 +61,6 @@ I design and develop responsive interfaces with React.js and Tailwind CSS, suppo
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nurulafsarinfo&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulafsarinfo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
