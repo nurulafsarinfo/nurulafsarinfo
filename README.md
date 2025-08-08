@@ -52,7 +52,7 @@ I design and develop responsive interfaces with React.js and Tailwind CSS, suppo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,jwt,figma,netlify,vercel,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,figma,netlify,vercel,postman" />
   </a>
 </p>
   
